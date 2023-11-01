@@ -25,9 +25,13 @@ pnpm install
 
 1. Creational Patterns
 2. Structural Patterns
-3. Behavioral Pattern s
+3. Behavioral Patterns
 
 
+
+### Creational Patterns
+
+1. Singleton Pattern  [Visit](/src/Creational/Singleton/)
 ## Notes 
 
 This Repo Will Not Learn you The design pattern from zero 
