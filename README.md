@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+# Design Pattern In React js with Real Project Example 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To Run  the Project , follow these steps:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Ensure you have Node.js  installed in your pc.
 
-### `npm test`
+2. Install the necessary dependencies using PNPM by running 
+```bash
+pnpm install
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. Launch the Project with 
+```bash pnpm start ```
+6. Visit http://localhost:3000 to view the dashboard.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## What You Will Learn 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+1. Creational Patterns
+2. Structural Patterns
+3. Behavioral Pattern s
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Notes 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This Repo Will Not Learn you The design pattern from zero 
+but will gave you a real example how you can use it in your next project 
+## Contact
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+For any queries or support, please reach out to our team at karimaldenlibrary@gmail.com or contact us via phone at +963951968994.
 
-## Learn More
+## Conclusion
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+We hope this documentation assists you in leveraging the full potential of the Design Pattern . Should you have any further questions, please do not hesitate to reach out.
