@@ -32,6 +32,8 @@ pnpm install
 ### Creational Patterns
 
 1. Singleton Pattern  [Visit](/src/Creational/Singleton/)
+2. Prototype  Pattern  [Visit](/src/Creational/Prototype/)
+
 ## Notes 
 
 This Repo Will Not Learn you The design pattern from zero 
