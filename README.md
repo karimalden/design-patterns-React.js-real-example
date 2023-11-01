@@ -33,6 +33,8 @@ pnpm install
 
 1. Singleton Pattern  [Visit](/src/Creational/Singleton/)
 2. Prototype  Pattern  [Visit](/src/Creational/Prototype/)
+2. Factory  Pattern  [Visit](/src/Creational/Factory%20Method//)
+
 
 ## Notes 
 
