@@ -37,7 +37,7 @@ pnpm install
 ## Notes 
 
 This Repo Will Not Learn you The design pattern from zero 
-but will gave you a real example how you can use it in your next project 
+but will give you a real example how you can use it in your next project 
 ## Contact
 
 For any queries or support, please reach out to our team at karimaldenlibrary@gmail.com or contact us via phone at +963951968994.
