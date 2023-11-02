@@ -38,6 +38,8 @@ pnpm install
 
 
 
+### Behavioral Patterns
+1. Chain of Responsibility [Visit](/src/Behavioral/Chain%20of%20Responsibility/)
 ## Notes 
 
 This Repo Will Not Learn you The design pattern from zero 
