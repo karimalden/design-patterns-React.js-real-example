@@ -17,6 +17,9 @@ function App() {
 
   //3. Factory
   // return <ExampleFactory/>
+
+  //4. Builder 
+  // ExampleSingleton()
   return (
     <div>
        React.js Design Pattern With Real Example  

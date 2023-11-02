@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react'
 import SocketSingleton from '.'
 
-function ExampleSingleton(place:string) {
+function ExampleSingleton() {
 
 
-  const socketClass = SocketSingleton.getInstance(place)
+  const socketClass = SocketSingleton.getInstance()
 
 
   useEffect(()=>{

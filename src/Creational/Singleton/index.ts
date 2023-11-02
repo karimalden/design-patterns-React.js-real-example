@@ -2,9 +2,8 @@ class SocketSingleton {
     private socket: WebSocket | null = null;
     private static instance: SocketSingleton | null = null;
   
-    public static getInstance(s:string): SocketSingleton {
+    public static getInstance(): SocketSingleton {
       if (!SocketSingleton.instance) {
-        console.log("NEW INSTANCE",s);
         
         SocketSingleton.instance = new SocketSingleton();
         

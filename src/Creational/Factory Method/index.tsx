@@ -1,5 +1,9 @@
 import React, { ReactNode } from "react"
 
+interface Props{
+
+}
+
 
 type ElemntType = "button" | "link"  | 'div'  // Add Your Own Elemnt To Factory
 
@@ -24,8 +28,7 @@ interface ElementProps {
     type: ElemntType;
   }
 
-
-
+ 
 
 type All =ElementProps & (ButtonProps | DivProps | LinkProps)
 
