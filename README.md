@@ -40,6 +40,14 @@ pnpm install
 
 ### Behavioral Patterns
 1. Chain of Responsibility [Visit](/src/Behavioral/Chain%20of%20Responsibility/)
+2. Command  [Visit](/src/Behavioral/Command/)
+3. Iterator [Visit](/src/Behavioral/Iterator/)
+4. Observer  [Visit](/src/Behavioral/Observer%20Pattern/)
+5. State  [Visit](/src/Behavioral/state/)
+6. Strategy [Visit](/src/Behavioral/Strategy/)
+7. Tamplate [Visit](/src/Behavioral/Tamplate%20Methode/)
+
+
 ## Notes 
 
 This Repo Will Not Learn you The design pattern from zero 
