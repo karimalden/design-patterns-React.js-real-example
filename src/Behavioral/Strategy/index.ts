@@ -25,6 +25,8 @@ interface PaymentStrategy {
     }
   }
 
+
+
 export class PaymentMangment implements PaymentStrategy{
 
     private paymentStrategy?: PaymentStrategy ;

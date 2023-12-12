@@ -1,5 +1,6 @@
 import axios from 'axios'
 import React from 'react'
+import { ObserverGetRequest } from '.'
 
 function ExampleObserver() {
 

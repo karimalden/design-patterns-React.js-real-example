@@ -22,3 +22,5 @@ function ExamplePrototype() {
 }
 
 export default ExamplePrototype
+
+

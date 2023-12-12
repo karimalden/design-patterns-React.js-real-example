@@ -2,8 +2,14 @@ import axios from "axios";
 import { Order, OrderStatus } from "./ExampleCor";
 
 
+
 abstract class OrderStatusHandler {
+
+
+
+
     public nextHandler: OrderStatusHandler | null = null;
+
     setNextOrderStatusHandler(handler:OrderStatusHandler) : OrderStatusHandler {
       this.nextHandler = handler;
       return handler
@@ -12,6 +18,18 @@ abstract class OrderStatusHandler {
     // Handle the order status
     abstract handleOrderStatus(order:any):any;
   }
+
+
+
+
+
+
+
+
+
+
+
+
   export class PenddingOrderHandler extends OrderStatusHandler {
  
 
